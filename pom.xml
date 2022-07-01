@@ -13,7 +13,7 @@
 	<artifactId>SpringBootRestIntegrationWithSwaggerMySQLDataJPA</artifactId>
 	<version>1.0</version>
 	<name>SpringBootRestIntegrationWithSwaggerMySQLDataJPA</name>
-	<description>Spring Boot Rest Integration with Data JPA, Lombok, MySQL and Swagger</description>
+	<description>Spring Boot Rest Api Integration with Data JPA, Lombok, MySQL and Swagger</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -34,7 +34,6 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.16</version><!--$NO-MVN-MAN-VER$ -->
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>

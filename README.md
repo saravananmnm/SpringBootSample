@@ -1,4 +1,4 @@
 # SpringBootRestJpa
-Spring Boot Rest Integration With Swagger MySQL Data JPA
+Spring Boot Rest Api Integration With Swagger MySQL Data JPA
 
 ## Output
